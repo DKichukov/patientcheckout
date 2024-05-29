@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "John",
+    "middleName": "Unknown",
+    "lastName": "Doe",
+    "ssn": "123456789"
+  },
+  {
+    "firstName": "Sarath",
+    "middleName": "Reddy",
+    "lastName": "Thippireddy",
+    "ssn": "123456781"
+  },
+  {
+    "firstName": "Jane",
+    "middleName": "Marie",
+    "lastName": "Smith",
+    "ssn": "987654321"
+  },
+  {
+    "firstName": "Michael",
+    "middleName": "James",
+    "lastName": "Johnson",
+    "ssn": "111111111"
+  },
+  {
+    "firstName": "Emily",
+    "middleName": "Elizabeth",
+    "lastName": "Williams",
+    "ssn": "222222222"
+  }
+]
